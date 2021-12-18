@@ -4,7 +4,7 @@ Database Driven website that will be a mockup for a grocery store website.
 ## Technologies Used (Back-End):
   * Java
   * Springboot (Spring Framework)
-  * MariaDB (Username/Password omitted in application.properties for obvious reasons)
+  * MariaDB
   
 ## Technologies Used (Front-End):
   * Angular
